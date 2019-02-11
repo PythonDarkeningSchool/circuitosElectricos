@@ -1,28 +1,47 @@
 # Temario
 
+- [Circuitos Electricos](#circuitos-electricos)
+- [Descripcion del projecto](#descripcion-del-projecto)
+- [:zap: Salidas de voltaje](#-zap--salidas-de-voltaje)
+- [:electric_plug: Material utilizado](#-electric-plug--material-utilizado)
+  * [:newspaper Comentarios](#-newspaper-comentarios)
+- [:bell: Evidencia](#-bell--evidencia)
+  * [Diagramas](#diagramas)
+    + [:high_brightness: Circuito de 5 Volts](#-high-brightness--circuito-de-5-volts)
+    + [:high_brightness: Circuito de +12/-12 Volts](#-high-brightness--circuito-de--12--12-volts)
+  * [:high_brightness: Salida de voltaje 5 Volts](#-high-brightness--salida-de-voltaje-5-volts)
+  * [:high_brightness: Salida de voltaje de +12 Volts](#-high-brightness--salida-de-voltaje-de--12-volts)
+  * [:high_brightness: Salida de voltaje de -12 Volts](#-high-brightness--salida-de-voltaje-de--12-volts)
+- [:eyes: Observaciones](#-eyes--observaciones)
+- [Conclusion](#conclusion)
+- [:fire: Dificultades encontradas](#-fire--dificultades-encontradas)
+- [Integrantes del equipo](#integrantes-del-equipo)
+
+
+
 ## Circuitos Electricos
 La materia para la cual este projecto fue realizado es *circuitos electricos*
 cuya definicion formal es la siguiente:
 
-Un circuito eléctrico, por lo tanto, es la interconexión de dos o más 
+> Un circuito eléctrico, por lo tanto, es la interconexión de dos o más 
 componentes que contiene una trayectoria cerrada. Dichos componentes pueden 
 ser resistencias, fuentes, interruptores, condensadores, semiconductores o 
 cables, por ejemplo. Cuando el circuito incluye componentes electrónicos,
 se habla de circuito electrónico.
 
 ## Descripcion del projecto
-Se realizo una fuente de alimentacion que convierte corriente alterna en
+> Se realizo una fuente de alimentacion que convierte corriente alterna en
 corriente de la linea electrica comercial la cual es corriente directa.
 
 ## :zap: Salidas de voltaje
-Las salidas de voltaje de corriente directa para este projecto son:
+> Las salidas de voltaje de corriente directa para este projecto son:
 
 - 5 Volts
 - +12 Volts
 - -12 Volts
 
 ## :electric_plug: Material utilizado
-El siguiente material fue utilizado para el circuito que conforma la fuente
+> El siguiente material fue utilizado para el circuito que conforma la fuente
 de 5 Volts
 
 - 1 transformador de CA 110V a 12V 60Hz 3A
@@ -35,7 +54,7 @@ de 5 Volts
 - 1 led
 - 1 resistencia 470Ohm
 
-El siguiente material fue utilizado para el circuito que conforma la fuente
+> El siguiente material fue utilizado para el circuito que conforma la fuente
 de +12 Volts y -12 Volts
 
 - 1 transformador de CA 110V a 12V 60Hz 3A
@@ -46,7 +65,7 @@ de +12 Volts y -12 Volts
 - 2 capacitores electroliticos 1uF
 
 ### :newspaper Comentarios
-Ambas fuentes fueron realizados en el mismo circuito por cuestiones de
+> Ambas fuentes fueron realizados en el mismo circuito por cuestiones de
 practicidad
 
 ## :bell: Evidencia
@@ -69,17 +88,17 @@ practicidad
 ![alt text][negativo12volts]
 
 ## :eyes: Observaciones
-Durante la duracion del proyecto nuestro equipo noto una gran mejoria respecto
+> Durante la duracion del proyecto nuestro equipo noto una gran mejoria respecto
 a la practica realizada con la protoboard, especificamente en la salida
 negativa de -12 volts, ya que esta vez logramos alcanzar esa salida de voltaje
 sin mayor problema.
 
 ## Conclusion
-La conclusion del equipo fue que este proyecto resulto exitoso, con las salidas
+> La conclusion del equipo fue que este proyecto resulto exitoso, con las salidas
 de voltajes correspondientes como lo requerian los diagramas del mismo.
 
 ## :fire: Dificultades encontradas
-El reto mas grande que se tuvo para el equipo fue en soldar los componentes
+> El reto mas grande que se tuvo para el equipo fue en soldar los componentes
 electronicos, ya que casi nadie contaba con experiencia previa.
 Fuera de eso el projecto creciendo en expectativas positivas.
 
