@@ -97,7 +97,7 @@ Imagenes de referencia
 -->
 
 [5volts]: imagenes/evidencia/5Volts.jpeg "5 Volts"
-[positivo12volts]: imagenes\evidencia\positivo12Volts.jpeg "+ 12 Volts"
-[negativo12volts]: imagenes\evidencia\negativo12Volts.jpeg "- 12 Volts"
-[diagrama5volts]: imagenes\diagramas\circuito_1.jpeg "Circuito 5 Volts"
-[diagrama12volts]: imagenes\diagramas\circuito_2.jpeg "Circuito +12/-12 Volts"
+[positivo12volts]: imagenes/evidencia/positivo12Volts.jpeg "+ 12 Volts"
+[negativo12volts]: imagenes/evidencia/negativo12Volts.jpeg "- 12 Volts"
+[diagrama5volts]: imagenes/diagramas/circuito_1.jpeg "Circuito 5 Volts"
+[diagrama12volts]: imagenes/diagramas/circuito_2.jpeg "Circuito +12/-12 Volts"
