@@ -111,6 +111,8 @@ Fuera de eso el projecto creciendo en expectativas positivas.
 - :boy: Ivan Lopez Mar
 - :boy: Carlos Alberto Perez Velazquez
 
+*_UTEG - Ingeneria en Computacion_*
+
 <!--
 Imagenes de referencia
 -->
