@@ -4,7 +4,7 @@
 - [Descripcion del projecto](#descripcion-del-projecto)
 - [:zap: Salidas de voltaje](#-zap--salidas-de-voltaje)
 - [:electric_plug: Material utilizado](#-electric-plug--material-utilizado)
-  * [:newspaper Comentarios](#-newspaper-comentarios)
+  * [:newspaper: Comentarios](#-newspaper-comentarios)
 - [:bell: Evidencia](#-bell--evidencia)
   * [Diagramas](#diagramas)
     + [:high_brightness: Circuito de 5 Volts](#-high-brightness--circuito-de-5-volts)
@@ -64,7 +64,7 @@ de +12 Volts y -12 Volts
 - 1 regulador de voltaje LM7912
 - 2 capacitores electroliticos 1uF
 
-### :newspaper Comentarios
+### :newspaper: Comentarios
 > Ambas fuentes fueron realizados en el mismo circuito por cuestiones de
 practicidad
 
