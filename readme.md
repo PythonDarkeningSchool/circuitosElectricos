@@ -14,7 +14,7 @@ se habla de circuito electrónico.
 Se realizo una fuente de alimentacion que convierte corriente alterna en
 corriente de la linea electrica comercial la cual es corriente directa.
 
-## Salidas de voltaje
+## :zap: Salidas de voltaje
 Las salidas de voltaje de corriente directa para este projecto son:
 
 - 5 Volts
@@ -45,30 +45,30 @@ de +12 Volts y -12 Volts
 - 1 regulador de voltaje LM7912
 - 2 capacitores electroliticos 1uF
 
-### Comentarios
+### :newspaper Comentarios
 Ambas fuentes fueron realizados en el mismo circuito por cuestiones de
 practicidad
 
-## Evidencia
+## :bell: Evidencia
 
 ### Diagramas
 
-#### Circuito de 5 Volts
+#### :high_brightness: Circuito de 5 Volts
 ![alt text][diagrama5volts]
 
-#### Circuito de +12/-12 Volts
+#### :high_brightness: Circuito de +12/-12 Volts
 ![alt text][diagrama12volts]
 
-### Salida de voltaje 5 Volts
+### :high_brightness: Salida de voltaje 5 Volts
 ![alt text][5volts]
 
-### Salida de voltaje de +12 Volts
+### :high_brightness: Salida de voltaje de +12 Volts
 ![alt text][positivo12volts]
 
-### Salida de voltaje de -12 Volts
+### :high_brightness: Salida de voltaje de -12 Volts
 ![alt text][negativo12volts]
 
-## Observaciones
+## :eyes: Observaciones
 Durante la duracion del proyecto nuestro equipo noto una gran mejoria respecto
 a la practica realizada con la protoboard, especificamente en la salida
 negativa de -12 volts, ya que esta vez logramos alcanzar esa salida de voltaje
@@ -78,7 +78,7 @@ sin mayor problema.
 La conclusion del equipo fue que este proyecto resulto exitoso, con las salidas
 de voltajes correspondientes como lo requerian los diagramas del mismo.
 
-## Dificultades encontradas
+## :fire: Dificultades encontradas
 El reto mas grande que se tuvo para el equipo fue en soldar los componentes
 electronicos, ya que casi nadie contaba con experiencia previa.
 Fuera de eso el projecto creciendo en expectativas positivas.
